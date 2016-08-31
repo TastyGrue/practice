@@ -14,5 +14,10 @@ namespace TestProject
             Console.Read();
             //comment
         }
+
+        int Eight()
+        {
+            return 8;
+        }
     }
 }
